@@ -1,6 +1,6 @@
 # SPEC 02 — Feed principal en la ruta `/` (fiel a `Referencias/feed_familiar_actividades_del_aula`)
 
-> **Estado:** Borrador
+> **Estado:** Implementado
 > **Depende de:** —
 > **Sustituye a:** SPEC 01
 > **Fecha:** 2026-11-03
